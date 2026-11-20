@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "https://github.com/zonsat/Mumhad-books",
-  "rawBaseUrl": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main",
+  "rawBaseUrl": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books",
   "totalBooks": 24,
   "books": [
     {
@@ -18,8 +18,8 @@
       "compressedSizeBytes": 391058,
       "uncompressedSizeBytes": 1871872,
       "sha256": "1c09f4ebbfa367ba6aee2090b3b808243ef46df768b967caf1efffc5415766aa",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/nahj_balagha.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/nahj_balagha.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/nahj_balagha.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/nahj_balagha.db"
     },
     {
       "id": "huquq",
@@ -35,8 +35,8 @@
       "compressedSizeBytes": 35589,
       "uncompressedSizeBytes": 270336,
       "sha256": "60463fcf202a725d473714f64364ba024c6d61e70ba34cfe76a969670471b450",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/risalat_al_huquq.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/risalat_al_huquq.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/risalat_al_huquq.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/risalat_al_huquq.db"
     },
     {
       "id": "dhunoob",
@@ -52,8 +52,8 @@
       "compressedSizeBytes": 107219,
       "uncompressedSizeBytes": 753664,
       "sha256": "588bd26affdf11ff87660ee85f943ac731025e0188a0db3666e1ed2e691d792b",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_dhunoob_al_kabeerah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_dhunoob_al_kabeerah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_dhunoob_al_kabeerah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_dhunoob_al_kabeerah.db"
     },
     {
       "id": "qalb_salim",
@@ -69,8 +69,8 @@
       "compressedSizeBytes": 2042030,
       "uncompressedSizeBytes": 11694080,
       "sha256": "2d3c1dc27c74f3109cc79cf7028c7b18dc4a943fb65f3cf3e692641bd0aa5184",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/qalb_salim.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/qalb_salim.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/qalb_salim.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/qalb_salim.db"
     },
     {
       "id": "qisas",
@@ -86,8 +86,8 @@
       "compressedSizeBytes": 35470,
       "uncompressedSizeBytes": 172032,
       "sha256": "f8496f7dc3c598a0a021d6a700dcda66d18e9a5349dd9e3e56d3484927ff4676",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/qisas_ajeebah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/qisas_ajeebah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/qisas_ajeebah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/qisas_ajeebah.db"
     },
     {
       "id": "jami_saadat",
@@ -103,8 +103,8 @@
       "compressedSizeBytes": 37568,
       "uncompressedSizeBytes": 180224,
       "sha256": "2be42d219d274b294b922f51e35e0a4645cde7ac013d623b6fd7e7d262d9312c",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/jami_al_saadat.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/jami_al_saadat.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/jami_al_saadat.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/jami_al_saadat.db"
     },
     {
       "id": "miraj_saadah",
@@ -120,8 +120,8 @@
       "compressedSizeBytes": 21260,
       "uncompressedSizeBytes": 122880,
       "sha256": "a1c31d6f277743d3ef9fae7e36383c783520c45f46693ac14f27a25d345c7592",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/miraj_al_saadah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/miraj_al_saadah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/miraj_al_saadah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/miraj_al_saadah.db"
     },
     {
       "id": "mahajjah",
@@ -137,8 +137,8 @@
       "compressedSizeBytes": 36163,
       "uncompressedSizeBytes": 180224,
       "sha256": "e1697162447f04725f9dd51e0c0f40cb2de92ae40d57699b95cd6ddf6b4ae201",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_mahajjat_al_bayda.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_mahajjat_al_bayda.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_mahajjat_al_bayda.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_mahajjat_al_bayda.db"
     },
     {
       "id": "salat_khashieen",
@@ -154,8 +154,8 @@
       "compressedSizeBytes": 8717,
       "uncompressedSizeBytes": 90112,
       "sha256": "264d946763abdc629ec4d6c45ff06970f9cbd393db71b3036a5da8f8596f34ff",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/salat_al_khashieen.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/salat_al_khashieen.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/salat_al_khashieen.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/salat_al_khashieen.db"
     },
     {
       "id": "tawbah",
@@ -171,8 +171,8 @@
       "compressedSizeBytes": 6333,
       "uncompressedSizeBytes": 73728,
       "sha256": "14509d525fb44b3cea384e461e7a16bda71f5894c20bdf384219774092fc9ac0",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_tawbah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_tawbah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_tawbah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_tawbah.db"
     },
     {
       "id": "tareeq_saadah",
@@ -188,8 +188,8 @@
       "compressedSizeBytes": 7085,
       "uncompressedSizeBytes": 81920,
       "sha256": "2e6285c4bca3b4135564bf8a96e997b3647380c2229450b725efee660b674ca4",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/tareeq_al_saadah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/tareeq_al_saadah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/tareeq_al_saadah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/tareeq_al_saadah.db"
     },
     {
       "id": "dar_akhirah",
@@ -205,8 +205,8 @@
       "compressedSizeBytes": 9533,
       "uncompressedSizeBytes": 90112,
       "sha256": "6e6f3de9f878a85a993bbe94657ee26f8d5c7187615d4e40d0a1b3a908be4bbc",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_dar_al_akhirah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_dar_al_akhirah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_dar_al_akhirah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_dar_al_akhirah.db"
     },
     {
       "id": "miraj_rooh",
@@ -222,8 +222,8 @@
       "compressedSizeBytes": 6510,
       "uncompressedSizeBytes": 81920,
       "sha256": "598107f93fdc646afb8ad9d1f1b1e51915303f9ddaaeaccc9cc880c7e2056438",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/miraj_al_rooh.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/miraj_al_rooh.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/miraj_al_rooh.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/miraj_al_rooh.db"
     },
     {
       "id": "adalah",
@@ -239,8 +239,8 @@
       "compressedSizeBytes": 7229,
       "uncompressedSizeBytes": 81920,
       "sha256": "60052703b1daf5531fb2089c4d6afb1abbe62dc0e0fa44fbedf8948b38b4af5b",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_adalah_fil_islam.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_adalah_fil_islam.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_adalah_fil_islam.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_adalah_fil_islam.db"
     },
     {
       "id": "insan_250",
@@ -256,8 +256,8 @@
       "compressedSizeBytes": 15300,
       "uncompressedSizeBytes": 131072,
       "sha256": "897e84337f14211cf938d6cf248f75ea726ab6552dee4c2ab69a6c612ee5df20",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/insan_250_sanah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/insan_250_sanah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/insan_250_sanah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/insan_250_sanah.db"
     },
     {
       "id": "sabr_nasr",
@@ -273,8 +273,8 @@
       "compressedSizeBytes": 13240,
       "uncompressedSizeBytes": 122880,
       "sha256": "4ca441dc1543bcf3c15d721c76b1407867072f67392b5c550b006ace449311bc",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/inna_ma_al_sabri_nasra.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/inna_ma_al_sabri_nasra.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/inna_ma_al_sabri_nasra.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/inna_ma_al_sabri_nasra.db"
     },
     {
       "id": "fikr_islami",
@@ -290,8 +290,8 @@
       "compressedSizeBytes": 13931,
       "uncompressedSizeBytes": 131072,
       "sha256": "e9049525cc22230c767262fd809aa8dc06afcea088abbb84686ec2ff020ef3da",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fikr_al_islami_fil_quran.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fikr_al_islami_fil_quran.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fikr_al_islami_fil_quran.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fikr_al_islami_fil_quran.db"
     },
     {
       "id": "jihad_tabyeen",
@@ -307,8 +307,8 @@
       "compressedSizeBytes": 12241,
       "uncompressedSizeBytes": 114688,
       "sha256": "9ae562d0ddd321282012296ec51fcb37c523ecf028221ac1850467255076d454",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/jihad_al_tabyeen.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/jihad_al_tabyeen.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/jihad_al_tabyeen.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/jihad_al_tabyeen.db"
     },
     {
       "id": "harb_naimah",
@@ -324,8 +324,8 @@
       "compressedSizeBytes": 11740,
       "uncompressedSizeBytes": 114688,
       "sha256": "3c9d541e9cae793d14ebe7cd2fe6076aa0f2361f5e00e1a1c87a8e1fd0cdc140",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_harb_al_naimah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_harb_al_naimah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_harb_al_naimah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_harb_al_naimah.db"
     },
     {
       "id": "falasteen",
@@ -341,8 +341,8 @@
       "compressedSizeBytes": 11626,
       "uncompressedSizeBytes": 114688,
       "sha256": "2dda512b6df13c43a73925b922bcfa578d9f6d44541e2e380aa7cb852f0719e0",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/falasteen_khamenei.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/falasteen_khamenei.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/falasteen_khamenei.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/falasteen_khamenei.db"
     },
     {
       "id": "thaqafah_quraniyyah",
@@ -358,8 +358,8 @@
       "compressedSizeBytes": 11826,
       "uncompressedSizeBytes": 114688,
       "sha256": "0a8ede6faa024ef002dd21ad0fcebdaf2dbf6f838bb3614c94047f0ab46ca6ac",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_thaqafah_al_quraniyyah.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_thaqafah_al_quraniyyah.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_thaqafah_al_quraniyyah.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_thaqafah_al_quraniyyah.db"
     },
     {
       "id": "fikr_siyasi",
@@ -375,8 +375,8 @@
       "compressedSizeBytes": 11936,
       "uncompressedSizeBytes": 114688,
       "sha256": "17e957eef33233048b4850ccd4b7347bb4b062159f95e5472c718096404bf3f0",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fikr_al_siyasi_khamenei.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fikr_al_siyasi_khamenei.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fikr_al_siyasi_khamenei.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fikr_al_siyasi_khamenei.db"
     },
     {
       "id": "fiqh_siyasi",
@@ -392,8 +392,8 @@
       "compressedSizeBytes": 11577,
       "uncompressedSizeBytes": 114688,
       "sha256": "5c5eef567f255ee2798ac0f49335ab8389ec1c8e193540a9110a49cd5cb93723",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fiqh_al_siyasi_khamenei.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_fiqh_al_siyasi_khamenei.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fiqh_al_siyasi_khamenei.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_fiqh_al_siyasi_khamenei.db"
     },
     {
       "id": "imam_khomeini",
@@ -409,8 +409,8 @@
       "compressedSizeBytes": 190524,
       "uncompressedSizeBytes": 778240,
       "sha256": "392db64e544f3eb3e12aa90cba804c2dd8c7bc7da2f4b7420a3f242e62a82cbd",
-      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_imam_al_khomeini_khamenei.db.gz",
-      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/al_imam_al_khomeini_khamenei.db"
+      "downloadUrlGz": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_imam_al_khomeini_khamenei.db.gz",
+      "downloadUrlDb": "https://raw.githubusercontent.com/zonsat/Mumhad-books/main/books/al_imam_al_khomeini_khamenei.db"
     }
   ]
 }
