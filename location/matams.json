@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "matams": [
+    {
+      "id": "matam-1",
+      "name": "مأتم أنموذج",
+      "location_url": "https://maps.google.com/?q=26.2285,50.5860",
+      "instagram_url": "https://www.instagram.com/",
+      "youtube_url": "https://www.youtube.com/",
+      "whatsapp": "+97300000000"
+    }
+  ]
+}
